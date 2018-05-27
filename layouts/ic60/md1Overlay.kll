@@ -9,4 +9,4 @@ Date = 2014-11-12;
 U"Function2" : layerLock( 1 );
 U"Function3" : layerLatch( 1 );
 U"Function4" : U"CapsLock";
-
+U"Function7" : layerLock( 1 );

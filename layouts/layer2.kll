@@ -1,0 +1,20 @@
+
+S0xA  : U"PageUp";   #BIG BUTTON page up
+S0x8  : U"R";        #r for MWO
+S0x9  : U"P7";      
+S0x06 : U"P";     
+S0x12 : U"P8";      
+S0x1A : U"Right";    #right arrow
+S0x1B : U"Left";     #left arrow  
+S0x24 : U"Down";     #down arrow
+S0x3E : U"P*";
+S0x40 : U"P-";
+S0x48 : U"P/";
+S0x50 : U"F";        #f for MWO
+S0x1C : U"PageDown"; #pagedown
+S0x51 : U"Delete";   #delete 
+S0x5A : U"Up";       #up arrow
+S0x62 : U"P.";
+S0x6C : U"P0";
+S0x2C : CONS"SCANNEXTTRACK"; #volumeup layer2 for nexttrack
+S0x2E : CONS"SCANPREVIOUSTRACK"; #volumedown layer2 for prevtrack
